@@ -22,7 +22,7 @@ group members.
 
 <img src="https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img1.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" height = 10px />
+     style="float: left; margin-right: 10px;" height = "8" width="5"/>
 
 ![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img1.png )
 
