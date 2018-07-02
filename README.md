@@ -24,18 +24,27 @@ group members.
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" height = "8" width="5"/>
 
-![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img1.png )
+<img src="https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img2.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" height = "8" width="5"/>
 
-![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img2.png)
-
-![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img3.png)
-
-![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img4.png)
-
-![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img5.png)
-
-![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img6.png)
-
-![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img7.png)
-
-![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img8.png)
+<img src="https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img3.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" height = "8" width="5"/>
+<img src="https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img4.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" height = "8" width="5"/>
+<img src="https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img5.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" height = "8" width="5"/>
+  <img src="https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img6.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" height = "8" width="5"/>
+     
+  <img src="https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img7.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" height = "8" width="5"/>   
+     
+ <img src="https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img8.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" height = "8" width="5"/>    
