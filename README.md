@@ -20,9 +20,11 @@ software will be produced by the name of Family Tracker. This application is des
 safety. They will be able to do so by getting their locations on the map. More, specifically the system is designed to allow the users to see the location of other 
 group members.
 
+<img src="https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img1.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
-
-![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img1.png =250x250 )
+![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img1.png )
 
 ![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img2.png)
 
