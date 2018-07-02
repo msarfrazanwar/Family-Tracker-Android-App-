@@ -23,14 +23,13 @@ group members.
 <img src="https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img1.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" height = "350" width="250"/>
-
 <img src="https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img2.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" height = "350" width="250"/>
-
 <img src="https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img3.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" height = "350" width="250"/>
+     
 <img src="https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img4.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" height = "350" width="250"/>
