@@ -22,7 +22,7 @@ group members.
 
 
 
-![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img1.png)
+![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img1.png =250x250 )
 
 ![alt text](https://github.com/harshalkhandelwal/Family_Tracker/blob/master/img2.png)
 
